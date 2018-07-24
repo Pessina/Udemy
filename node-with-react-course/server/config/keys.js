@@ -1,8 +1,5 @@
-const keysDev = require('./dev');
-const keysProd = require('./prod');
-
 if (process.env.NODE_ENV === 'production') {
-  module.exports = keysProd;
+  module.exports = require('./prod');
 } else {
-  module.exports = keysDev;
+  module.exports = require('./dev');
 }
