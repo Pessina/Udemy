@@ -9,7 +9,10 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "enzyme-to-json": "^3.5.0",
+    "firebase": "^7.15.5",
+    "history": "^5.0.0",
     "moment": "^2.27.0",
+    "numeral": "^2.0.6",
     "raf": "^3.4.1",
     "react": "^16.13.1",
     "react-addons-shallow-compare": "^15.6.2",
@@ -20,6 +23,7 @@
     "react-scripts": "3.4.1",
     "react-test-renderer": "^16.13.1",
     "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
     "uuid": "^8.2.0"
   },
   "scripts": {
