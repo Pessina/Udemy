@@ -8,15 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.1.0",
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "^2.5.1"
-  },
   "dependencies": {
     "chalk": "^2.4.1",
     "validator": "^10.8.0",

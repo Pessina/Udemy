@@ -7,16 +7,15 @@
     "start": "node src/app.js",
     "dev": "nodemon src/app.js -e js,hbs"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "eslint": "^7.2.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.21.2"
-  },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.16.4",
     "hbs": "^4.0.1",
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.2.0"
   }
 }
